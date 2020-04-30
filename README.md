@@ -1,6 +1,7 @@
-# Multivariate-time-series-prediction
+# Univariate-time-series-prediction-using-LSTM
+# Multivariate-time-series-prediction-using-LSTM
 
-This repository contains the iPython notebook on multivariate time forecasting using LSTM in keras. The dataset used is air pollution forecasting. Model predicts the polluion at time t given multiple previous time steps.
+This repository contains Uni and Multivariate time forecasting using LSTM in keras. 
 
 # Requirments
 1. Keras
